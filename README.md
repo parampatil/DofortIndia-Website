@@ -1,4 +1,4 @@
 # DofortIndia-Website
-Website designed for dofort india.
+A well designed website for dofort india.
 
   https://dofortindia.com/
